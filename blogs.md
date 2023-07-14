@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+## Blogs
 
 ### 2023
 
@@ -28,13 +28,6 @@ title: Blogs
 
 <br>
 
-## Teaching & Workshops
-
-- [Lance的知乎付费咨询](https://www.zhihu.com/consult/people/1135256969806925824)<br>
-- [数学建模训练营](https://caihanlin.com/blogs/modeling)<br>
-- 本科飞跃计划 (Under Working)
-
-<br>
 
 ## Leave a Message
 
