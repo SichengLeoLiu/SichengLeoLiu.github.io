@@ -7,7 +7,7 @@ layout: page
 <br>
 <img src="Sicheng.jpg" class="floatpic" width="360" height="505">
 
-Here is **Sicheng (Leo) Liu (刘思成)**.
+Hay! Here is **Sicheng (Leo) Liu (刘思成)**.
 
 I am currently a master student studying in Information Technology and Information Technology Management in The University of Sydney (USYD). I've got my bachelor's degree in Software Engineering in Nanchang Hangkong University (NCHU) in 2022.
 
