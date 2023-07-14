@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-
+<br>
 <img src="Sicheng.jpg" class="floatpic" width="360" height="505">
 
 Here is **Sicheng (Leo) Liu (刘思成)**.
