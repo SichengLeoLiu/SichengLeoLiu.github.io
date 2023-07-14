@@ -7,8 +7,9 @@ title: Blogs
 ## Blogs
 
 ### Paper Reading
+（Here will record my understanding of papers I read）
 
-- [paper](https://sichengleoliu.github.io/blogs/paper)
+- [TLDW: Extreme Multimodal Summarisation of News Videos](https://sichengleoliu.github.io/blogs/TLDW)
 
 
 
