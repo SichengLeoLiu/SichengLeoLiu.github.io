@@ -5,11 +5,11 @@ layout: page
 # About Me
 
 <br>
-<img src="Sicheng.jpg" class="floatpic" width="363" height="510">
+<img src="Sicheng.jpg" class="floatpic" width="360" height="508">
 
 Hay! Here is **Sicheng (Leo) Liu (刘思成)**.
 
-I am currently a master student studying in Information Technology and Information Technology Management in The University of Sydney (USYD). I graduated from Nanchang Hangkong University (NCHU) in 2022 as an Outstanding Graduate with a bachelor's degree in Software Engineering
+I am currently a master student studying in Information Technology and Information Technology Management in The University of Sydney (USYD). I graduated from Nanchang Hangkong University (NCHU) in 2022 as an Outstanding Graduate with a bachelor's degree in Software Engineering.
 
 <br>
 
