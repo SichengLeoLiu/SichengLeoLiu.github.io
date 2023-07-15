@@ -15,7 +15,7 @@ I am currently a master student studying in Information Technology and Informati
 
 ## Education
 
-- **Aug 2022 - Present:** The University of Sydney - MEng, Information Technology $ Information Technology Management
+- **Aug 2022 - Present:** The University of Sydney - MEng, Information Technology & Information Technology Management
 - **Sep 2018 - June 2022:** Nanchang Hangkong University - BEng, Software Engineering
 
 
