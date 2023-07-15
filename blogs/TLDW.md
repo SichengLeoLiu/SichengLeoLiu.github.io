@@ -13,6 +13,13 @@ In order to get herachical information, frames, scenes and vedios' feature shoul
 Similar to visual encoder, text encoder is used to calculate herachical information for words, sentences and documents. It also use CLIP model to get words' representation. Then, a pooling method is used to summarise words' information to calculate representations for sentences. Finally, GPO is used to get document's representation by summarizing sentences' features.
 
 ### Fusion
+Graph-based attention is used to fuse information from different modals. The whole fusion process can be divided into two steps. The first is local fusion and the second is global fusion.
+
+In local fusion, scene A's fusion features are calculated by  combining A's features with all sentences' features, through the graph-based attention. Then an average pooling is applied to summarise the results. Similarly, sentence fusion features are calculated by combining each sentence feature with all scenes' features.
+
+In global fusion, the representation of whole input is calculated by combining vedio feature and document feature with same method.
+
+
 ### Decoder
 ## Contribution
 ## Possible Improvement
