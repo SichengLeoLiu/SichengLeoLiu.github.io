@@ -9,7 +9,7 @@ layout: page
 
 Hay! Here is **Sicheng (Leo) Liu (刘思成)**.
 
-I am currently a master student studying in Information Technology and Information Technology Management in The University of Sydney (USYD). I graduated from Nanchang Hangkong University (NCHU) in 2022 as an Outstanding Graduate with a bachelor's degree in Software Engineering.
+I am currently a master's student studying Information Technology and Information Technology Management at the University of Sydney (USYD). I graduated from Nanchang Hangkong University (NCHU) in 2022 as an Outstanding Graduate, achieving a bachelor's degree in Software Engineering.
 
 <br>
 
