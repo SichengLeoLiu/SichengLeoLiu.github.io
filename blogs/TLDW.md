@@ -21,5 +21,17 @@ In global fusion, the representation of whole input is calculated by combining v
 
 
 ### Decoder
+Decoder is also divided into visual decoder and textual decoder.
+
+#### Viusal Decoder
+Visual decoder consists of three stage. Bi-GRU is used in every stages:
+- scene-guided frame decoding
+  This stage consider frame level information and scene information containing multimodal information.
+- video-guided frame decoding
+  This stage consider frame level information and video information.
+- cross-modality-guided frame decoding
+  This stage consider frame and video level information and global multimdal information.
+
+
 ## Contribution
 ## Possible Improvement
