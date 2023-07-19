@@ -26,32 +26,26 @@ Decoder is also divided into visual decoder and textual decoder.
 #### Viusal Decoder
 Visual decoder consists of three stages. Bi-GRU is used in every stages:
 - scene-guided frame decoding
-
-This stage consider frame level information and scene information containing multimodal information.
+  This stage consider frame level information and scene information containing multimodal information.
 
 - video-guided frame decoding
-
-This stage consider frame level information and video information.
+  This stage consider frame level information and video information.
 
 - cross-modality-guided frame decoding
-
-This stage consider frame and video level information and global multimdal information.
+  This stage consider frame and video level information and global multimdal information.
 
 Finally, one frame with highest score is picked.
 
 #### Textual Decoder
 Textual decoder also consists of three stages.
 - sentenced-guided word decoding
-
-This stage consider word level information and sentence information containing multimodal information.
+  This stage consider word level information and sentence information containing multimodal information.
 
 - document-guided word decoding
-
-This stage consider word level information and document information.
+  This stage consider word level information and document information.
 
 - cross-modality-guided word decoding
-  
-This stage consider document and word level information and global multimdal information.
+  This stage consider document and word level information and global multimdal information.
 
 Finally, *k* words with highest score are picked.
 
