@@ -25,37 +25,35 @@ Decoder is also divided into visual decoder and textual decoder.
 
 #### Viusal Decoder
 Visual decoder consists of three stages. Bi-GRU is used in every stages:
-- scene-guided frame decoding
-  
-  This stage consider frame level information and scene information containing multimodal information.
+- scene-guided frame decoding - This stage consider frame level information and scene information containing multimodal information.
 
-- video-guided frame decoding
-  
-  This stage consider frame level information and video information.
+- video-guided frame decoding - This stage consider frame level information and video information.
 
-- cross-modality-guided frame decoding
-  
-  This stage consider frame and video level information and global multimdal information.
+- cross-modality-guided frame decoding - This stage consider frame and video level information and global multimdal information.
 
 Finally, one frame with highest score is picked.
 
 #### Textual Decoder
 Textual decoder also consists of three stages.
-- sentenced-guided word decoding
-  
-  This stage consider word level information and sentence information containing multimodal information.
+- sentenced-guided word decoding - This stage consider word level information and sentence information containing multimodal information.
 
-- document-guided word decoding
-  
-  This stage consider word level information and document information.
+- document-guided word decoding - This stage consider word level information and document information.
 
-- cross-modality-guided word decoding
-  
-  This stage consider document and word level information and global multimdal information.
+- cross-modality-guided word decoding - This stage consider document and word level information and global multimdal information.
 
 Finally, *k* words with highest score are picked.
 
 ### Coverage Calculation
+This paper considers four kinds of coverages which can also be regarded as loss calculation methods. They are list below.
+- Document Coverage - Compute the Wasserstein distance between document and the selected sentence.
+- Video Coverage - Compute the Wasserstein distance between selected cover frame and the mean of vedio frames.
+- Textual Fluency - Using pre-trained model evaluate the fluency of the textual summary.
+- Cross-modal Consistency - Measuring the cos distance between cover frame and summary sentence.
 
+Finally, four coverages are sumed to get a final coverage.
 ## Contribution
+- Put forward a new problem - XMSMO
+- First put forward a unsupervised method for XMSMO problem.
+
 ## Possible Improvement
+Not found yet.
