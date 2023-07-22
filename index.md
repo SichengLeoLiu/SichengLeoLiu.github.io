@@ -16,7 +16,14 @@ I am currently a master's student studying Information Technology and Informatio
 ## Education
 
 - **Aug 2022 - Present:** The University of Sydney - MEng, Information Technology & Information Technology Management
+  - Main courses: Deep Learning (D), Natural Language Processing (HD), Machine Learning and Data Mining (HD) 
+  - Multi-label Multi-Modal Classification Kaggle Competition 
+  - Kaggle - LLM Science Exam
 - **Sep 2018 - June 2022:** Nanchang Hangkong University - BEng, Software Engineering
+  - Main courses: Algorithm Design and Analysis (91), Software Design and Architecture (91), Network and Computing (94)
+  - Depression Tedency Detection based on Deep Learning
+  - Research on Semantic Analysis Method based on BERT
+  - COVID-19 Data Visualization System
 
 
 <br>
