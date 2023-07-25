@@ -24,4 +24,5 @@ It calculate attention weight for visual context vector and text context vector 
 
 ## Contribution
 ## Possible Improvement
-- The models used as encoder can be replaced with state-of-the-art models.
+- Some models (VGG19, BiLSTM, Pointer-Generator Network) can be replaced with state-of-the-art models.
+- It doesn't consider cross-modal information when fusing multimodal information. Cross-modal can be added in multimodal attention layer.
