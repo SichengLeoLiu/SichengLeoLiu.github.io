@@ -15,12 +15,11 @@ Consists of three parts:
 - Attention on local features
 - Hierarchical visual attention on local features
 
-
 ### Multimodal Attention Layer
 To fuse the text and visual context information, multimodal attention layer is added.
 It calculate attention weight for visual context vector and text context vector respectively. Then weight visual and text context based on attention weights and add them together to get a final fused context information. 
-### Text Decoder & Summary Decoder
-#### Pointer-Generator Network
+### Decoder
+Pointer-Generator Network is used to reduce repetition.
 
 ## Contribution
 ## Possible Improvement
