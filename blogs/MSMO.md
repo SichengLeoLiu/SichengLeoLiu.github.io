@@ -14,6 +14,8 @@ Consists of three parts:
 - Attention on global features
 - Attention on loca features
 - Hierachical visual attention on local features
+
+
 ### Multimodal Attention Layer
 To fuse the text and visual context information, multimodal attention layer is added.
 ### Text Decoder & Summary Decoder
