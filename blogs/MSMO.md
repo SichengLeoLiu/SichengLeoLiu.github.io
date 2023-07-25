@@ -22,6 +22,9 @@ It calculate attention weight for visual context vector and text context vector 
 Pointer-Generator Network is used to reduce repetition.
 
 ## Contribution
+- Present MSMO task
+- Propose a multimodal summarization model
+
 ## Possible Improvement
 - Some models (VGG19, BiLSTM, Pointer-Generator Network) can be replaced with state-of-the-art models.
 - It doesn't consider cross-modal information when fusing multimodal information. Cross-modal can be added in multimodal attention layer.
