@@ -14,6 +14,7 @@ title: Blogs
 - [MSMO: Multimodal Summarization with Multimodal Output](https://sichengleoliu.github.io/blogs/MSMO)
 
 ### Advanced Machine Learning
+(Notes for advanced machine learning course)
 
 
 

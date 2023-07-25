@@ -12,12 +12,13 @@ VGG19 is used to extract global and local image features. Here, global features 
 #### Visual Attention
 Consists of three parts:
 - Attention on global features
-- Attention on loca features
-- Hierachical visual attention on local features
+- Attention on local features
+- Hierarchical visual attention on local features
 
 
 ### Multimodal Attention Layer
 To fuse the text and visual context information, multimodal attention layer is added.
+It calculate attention weight for visual context vector and text context vector respectively. Then weight visual and text context based on attention weights and add them together to get a final fused context information. 
 ### Text Decoder & Summary Decoder
 #### Pointer-Generator Network
 
