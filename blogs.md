@@ -6,10 +6,12 @@ title: Blogs
 
 ## Blogs
 
+- [Research Note](https://sichengleoliu.github.io/blogs/Research_Note)
+- 
+
 ### Paper Reading
 （Here will record my understanding of papers I read）
 
-- [Research Note](https://sichengleoliu.github.io/blogs/Research_Note)
 
 - [MSMO: Multimodal Summarization with Multimodal Output](https://sichengleoliu.github.io/blogs/MSMO)
 - 
