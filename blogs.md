@@ -7,7 +7,7 @@ title: Blogs
 ## Blogs
 
 - [Research Note](https://sichengleoliu.github.io/blogs/Research_Note)
-- 
+- [Models](https://sichengleoliu.github.io/blogs/Models)
 
 ### Paper Reading
 （Here will record my understanding of papers I read）
