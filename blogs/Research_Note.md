@@ -1,5 +1,6 @@
 # Research Note
 *2023.07.27*
+
 *This note is to record the content of the research and inspiration.*
 
 ## Multimodal Summarization 
