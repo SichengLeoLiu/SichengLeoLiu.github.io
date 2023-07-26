@@ -1,4 +1,5 @@
 # TLDW: Extreme Multimodal Summarisation of News Videos
+*2023.07.20*
 *This paper can be accessed form [here](https://arxiv.org/abs/2210.08481).*
 
 This paper mainly focus on Extreme Multimodal summarisation (XMSMO) task which is summarizing a vedio and a paragraph into one picture and one sentence. I'm going briefly introduce the content and my understanding of this paper.

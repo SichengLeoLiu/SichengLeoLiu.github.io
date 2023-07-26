@@ -1,4 +1,5 @@
 # MSMO: Multimodal Summarization with Multimodal Output
+*2023.07.25*
 *This paper can be accessed form [here](https://aclanthology.org/D18-1448/?source=post_page---------------------------).*
 
 This paper is the first work in Multimodal Summarization with Multimodal Output (MSMO) field. They collected dataset for MSMO research and proposed a model to handle this task.
