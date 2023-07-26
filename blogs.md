@@ -14,7 +14,6 @@ title: Blogs
 
 
 - [MSMO: Multimodal Summarization with Multimodal Output](https://sichengleoliu.github.io/blogs/MSMO)
-- 
 - [TLDW: Extreme Multimodal Summarisation of News Videos](https://sichengleoliu.github.io/blogs/TLDW)
 
 
