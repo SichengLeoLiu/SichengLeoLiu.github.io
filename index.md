@@ -32,10 +32,10 @@ I am currently a master student studying Information Technology and Information 
 
 ## Research Interests
 
-- Multimodal Summerization
+- Multimodal Learning
 - Natural Language Processing
 
-My research interests include multimodal summerization and natural language processing. I'm currently doing research pathway supervised by A/Prof. Zhiyong Wang focusing on finding a better method combining information from different modal.
+My research interests include multimodal summarization and natural language processing. I'm currently doing research pathway supervised by A/Prof. Zhiyong Wang focusing on finding a better method combining information from different modal.
 
 <br>
 
