@@ -6,7 +6,7 @@
 *This paper can be accessed form [here](https://arxiv.org/abs/2210.08481).*
 
 
-This paper mainly focus on Extreme Multimodal summarisation (XMSMO) task which is summarizing a video and a paragraph into one picture and one sentence. I'm going briefly introduce the content and my understanding of this paper.
+This paper mainly focus on Extreme Multimodal summarization (XMSMO) task which is summarizing a video and a paragraph into one picture and one sentence. I'm going briefly introduce the content and my understanding of this paper.
 ## Model Structure
 The model is consist of three parts: Encoder, Fusion and Decoder.
 ### Encoder
@@ -34,7 +34,7 @@ Visual decoder consists of three stages. Bi-GRU is used in every stages:
 
 - video-guided frame decoding - This stage consider frame level information and video information.
 
-- cross-modality-guided frame decoding - This stage consider frame and video level information and global multimdal information.
+- cross-modality-guided frame decoding - This stage consider frame and video level information and global multimodal information.
 
 Finally, one frame with highest score is picked.
 
