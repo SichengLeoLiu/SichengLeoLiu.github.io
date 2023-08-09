@@ -22,6 +22,7 @@ title: Blogs
 (Notes for advanced machine learning course)
 ### Profession Practice in IT
 (Notes for profession practice in IT course)
+
 [Note](https://sichengleoliu.github.io/blogs/Profession Practice in IT)
 
 

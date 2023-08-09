@@ -30,5 +30,7 @@ Profession:
    2. **Capabilities** refer to what the organization can do by using resources.
    3. Resources and capabilities can be insourced or out sourced.
    4. Organizations spend more investment in transformation can perform better financially than organizations with a similar investment. (Digital leader outperform laggards)
+
 ## How is that organizational value created
+
 
