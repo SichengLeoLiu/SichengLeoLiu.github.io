@@ -42,3 +42,11 @@ Business goals define targets an organization wants to achieve.
 - It improve decision-making. (making sure the business moves to its target when making decisions)
 
 ### Business models
+
+Most organizations have more than one business model targeted at different customers.
+
+### IT Strategy, IT Operating Model, IT Capabilities
+
+![Alt text](image.png)
+
+### Orchestrating Business and IT Capabilities into Value Streams
