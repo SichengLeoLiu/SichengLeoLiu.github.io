@@ -45,8 +45,19 @@ Business goals define targets an organization wants to achieve.
 
 Most organizations have more than one business model targeted at different customers.
 
+### Operating model
+
+Operating model is the blueprint for how value will be created and delivered to stakeholders.
+
+- How organization use their capabilities to create value.
+- How organization manage itself.
+
+Any change to organization's business model will require changes to operating model.
+
 ### IT Strategy, IT Operating Model, IT Capabilities
 
 ![Alt text](image.png)
+
+IT strategy is the plane for how the organizations IT investments will be applied to achieve the organizational goals and objectives.
 
 ### Orchestrating Business and IT Capabilities into Value Streams
