@@ -18,6 +18,7 @@ Profession:
 
 
 # Week 2
+![Alt text](image-1.png)
 ## Four Foundational Concepts
 - Organizations (profit or non-profit)
   - Structure
