@@ -19,17 +19,17 @@ Profession:
 
 # Week 2
 ## Four Foundational Concepts
-1. Organizations (profit or non-profit)
-   1. Structure
-      1. top down
-      2. networked (e.g. Alibaba)
-2. Value
-3. Organizational Value
-4. IT Investments
-   1. **Resources** refer to what an organization owns. It can be tangible or intangible.
-   2. **Capabilities** refer to what the organization can do by using resources.
-   3. Resources and capabilities can be insourced or out sourced.
-   4. Organizations spend more investment in transformation can perform better financially than organizations with a similar investment. (Digital leader outperform laggards)
+- Organizations (profit or non-profit)
+  - Structure
+    - top down
+    - networked (e.g. Alibaba)
+- Value
+- Organizational Value
+- IT Investments
+  - **Resources** refer to what an organization owns. It can be tangible or intangible.
+  - **Capabilities** refer to what the organization can do by using resources.
+  - Resources and capabilities can be insourced or out sourced.
+  - Organizations spend more investment in transformation can perform better financially than organizations with a similar investment. (Digital leader outperform laggards)
 
 ## How is that organizational value created
 
