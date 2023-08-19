@@ -67,6 +67,10 @@ IT strategy is the plane for how the organizations IT investments will be applie
 
 # Week 3
 ## Lecture
+### Project
+
+Project is a temporary endeavor undertaken to create a unique result.
+
 Project development may use iterative process.
 
 Cons:
@@ -74,7 +78,35 @@ Cons:
 - Inflexible planning and requirements
 - Increased risk of scope creep
 
+DevOps, agile, and ITSM are all based on iterative lefecycle.
+
 ### IT Lifecycle
+
+#### Traditional way
+Development team and operations team work in silos. Development teams focused on functionality, and non-functional requirements, whereas operations teams focus on cost, risk, security, reliability and manageability. *There seems to be an overlap between non-functional requirements and security, reliability?*
+
+E.g. Waterfall method
+
+### Enterprise Architecture
+Enterprise architecture is a way of addressing complexity and change on a large scale.
+#### TOGAF
+Based on:
+- Business architecture
+- Data architecture
+- Applications architecture
+- Technical architecture
+
+### ITSM Frameworks
+### Agile Approach
+Four key characteristics:
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+### DevOps
+
+
 
 ## Reading
 
