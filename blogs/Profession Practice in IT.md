@@ -122,3 +122,6 @@ V-shaped Model | 1. Simple and straightforward <br> 2. Critical issues are taken
 Spiral Model | 1. Precisely documented <br> 2. Accurate time and budget estimates <br> 3. Excellent risk assessment <br> 4. Engineers can apply changes to new iterations (Spiral) | 1. Success depends on skilled risk managers <br> 2. Requires a large resource pool <br> 3. Time-consuming | 1. Larger projects with complex requirements <br> 2. New products with multiple testing stages
 
 
+# Week 11
+
+## Lecture

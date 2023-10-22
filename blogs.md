@@ -23,7 +23,15 @@ title: Blogs
 ### Profession Practice in IT
 (Notes for profession practice in IT course)
 
-[Note](https://sichengleoliu.github.io/blogs/Profession Practice in IT)
+[Week 1](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_1)
+
+[Week 2](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_2)
+
+[Week 3](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_3)
+
+[Week 6](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_6)
+
+[Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_10)
 
 
 
