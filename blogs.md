@@ -24,27 +24,16 @@ title: Blogs
 (Notes for profession practice in IT course)
 
 - [Week 1](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_1)
-
 - [Week 2](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_2)
-
 - [Week 3](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_3)
-
 - [Week 4](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_4)
-
 - [Week 5](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_5)
-
 - [Week 6](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_6)
-
 - [Week 7](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_7)
-
 - [Week 8](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_8)
-
 - [Week 9](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_9)
-
 - [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_10)
-
 - [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_11)
-  
 - [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_12)
 
 
