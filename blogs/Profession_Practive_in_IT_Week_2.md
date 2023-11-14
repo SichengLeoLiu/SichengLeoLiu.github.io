@@ -52,53 +52,14 @@ Operating model is the blueprint for how value will be created and delivered to 
 - How organization use their capabilities to create value.
 - How organization manage itself.
 
-Benefits:
-- Effectiveness
-- Efficiency
-- Risk management
-- Optimized performance
+
 
 Any change to organization's business model will require changes to operating model.
 
+#### IT Strategy, IT Operating Model, IT Capabilities
+
 ![Alt text](image.png)
-
-#### IT Strategy
-
-IT strategy is a part of organizational strategy. (What does IT need to do to create value for organization)
 
 IT strategy is the plane for how the organizations IT investments will be applied to achieve the organizational goals and objectives.
 
-#### IT Operating Model
-
-How does It need to operate to sustain and extend the organization's strategy and how is IT governed?
-
-
-#### IT Capabilities
-
-#### Orchestrating business and IT capabilities into value streams
-
-1. Identify the value stream and describe it on four standard elements (Name, Description, Stakeholder, Value).
-2. Decompose it into a sequence of value-creating stages.
-
-### How to Represent IT Value as Organizational Value
-
-IT operational metrics (Technical) do not represent organizational value (Business).
-
-Measured by its impact on organizational goals and objectives.
-- Impact on revenue
-- Customer value
-- Shareholder value
-- Operational efficiency
-- Risk mitigation
-
-## Reading
-
-### [Information Technology and Business Alignment: Why it is Important:](https://www.techtarget.com/searchcio/feature/What-is-IT-business-alignment-and-why-is-it-important#:~:text=Why%20is%20IT%20business%20alignment,direction%20at%20the%20required%20speed.&text=%22Technology%20can%20be%20exciting%2C%20but,for%20purpose%20as%20originally%20hoped.)
-
-IT-business alignment ensures that the IT organization and business units are working together and moving in the same direction at the required speed.
-
-IT-business alignment helps ensure that the organization gets the right technology at the right time so it can meet its key performance indicators and reach its business transformation goals and objectives.
- 
-### [How CIOs prove business value](https://www.cio.com/article/221711/how-cios-prove-business-value.html)
-
-### [Why Business Value is Key to IT Success](https://www.bmc.com/blogs/business-value-it)
+#### Orchestrating Business and IT Capabilities into Value Streams
