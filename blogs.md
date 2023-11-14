@@ -33,8 +33,8 @@ title: Blogs
 - [Week 8](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_8)
 - [Week 9](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_9)
 - [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_10)
-- [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_11)
-- [Week 10](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_12)
+- [Week 11](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_11)
+- [Week 12](https://sichengleoliu.github.io/blogs/Professing_Practice_in_IT/Week_12)
 
 
 ## Leave a Message
