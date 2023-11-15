@@ -17,7 +17,20 @@ We want to find the optimal $\mathcal{D}$ and $\mathcal{R}$ that minimises the r
 
 
 ### PCA
-
 Columns of $D$ are orthonormal to each other, which means there are less common elements in $D$. Therefore, it may have less information loss.
 
 ### K-means
+
+$R$ is a one-hot vector. Therefore, whole faces information should be used as dictionary $D$ for restruction.
+
+## Non-negative Matrix Factorisation
+
+Data is often nonnegative by nature.
+- Image intensities
+- Movie ratings
+- Document-term counts
+
+$$\underset{D \in \mathcal{D}, R \in \mathcal{R}}{\operatorname{\argmin}}||X-DR||_F^2 \\ \text{s.t.} \mathcal{D}=\mathbb{R}_+^{d \times k}, \mathcal{R}=R_+^{k \times n}$$
+
+### Optimization
+Multiplicative Update Rules (MUR)
