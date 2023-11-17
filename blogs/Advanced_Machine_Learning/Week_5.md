@@ -33,4 +33,19 @@ Data is often nonnegative by nature.
 $$\underset{D \in \mathcal{D}, R \in \mathcal{R}}{\operatorname{\argmin}}||X-DR||_F^2 \\ \text{s.t.} \mathcal{D}=\mathbb{R}_+^{d \times k}, \mathcal{R}=R_+^{k \times n}$$
 
 ### Optimization
-Multiplicative Update Rules (MUR)
+**Multiplicative Update Rules (MUR).** Since updating $D$ and $R$ simutaneously is non-convex, we update them respectively.
+
+Fix $D^k$, solve for $R^{k+1}$:
+$$ \frac{\partial ||X-DR||^2_F}{\partial R} = -2D^T X + 2D^T D R$$
+
+$$R_{i,j}^{k+1} = R_{i,j}^{k} + \frac{\eta_{i,j}}{2} ({2D^k}^T X + 2{D^k}^T D^k R^k)_{i,j}$$
+
+$$\eta_{i,j} = \frac{R_{i,j}^{k}}{ { (D^k}^T D^k R^k)_{i,j}}$$
+
+Therefore, 
+$$R_{i,j}^{k+1} = R_{i,j}^k \frac{({D^k}^T X)_{i,j}}{({D^k}^T D^k R^k)_{i,j}}$$
+
+Similarly,
+
+$$D_{i,j}^{k+1} = D_{i,j}^k \frac{(X {R^{k+1}}^T)_{i,j}}{(D^k R^{k+1} {R^{k+1}}^T)_{i,j}}$$
+
