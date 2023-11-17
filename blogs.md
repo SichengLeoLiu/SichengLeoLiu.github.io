@@ -20,6 +20,20 @@ title: Blogs
 
 ### Advanced Machine Learning
 (Notes for advanced machine learning course)
+
+- [Week 1](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_1)
+- [Week 2](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_2)
+- [Week 3](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_3)
+- [Week 4](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_4)
+- [Week 5](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_5)
+- [Week 6](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_6)
+- [Week 7](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_7)
+- [Week 8](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_8)
+- [Week 9](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_9)
+- [Week 10](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_10)
+- [Week 11](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_11)
+- [Week 12](https://sichengleoliu.github.io/blogs/Advanced_Machine_Learning/Week_12)
+- 
 ### Profession Practice in IT
 (Notes for profession practice in IT course)
 
