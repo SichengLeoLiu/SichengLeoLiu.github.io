@@ -10,10 +10,10 @@ The expected risk in source domain is:
 $$R^S(h)=\mathbb{E}_{(X,Y)\sim p_s(X,Y)}[l(X,Y,h)]$$
 
 Similary, the expected risk in target domain is:
-$$R^T(h)=\mathbb{E}_{(X,Y)\sim p_t(X,Y)}[l(X,Y,h)]\\
-=\int_{(X,Y)}l(X,Y,h)p_t(X,Y)dXdY\\
-=\int_{(X,Y)}l(X,Y,h)\frac{p_t(X,Y)}{p_s(X,Y)}p_s(X,Y)dXdY\\
-=\mathbb{E}_{(X,Y)\sim p_s(X,Y)}[\frac{p_t(X,Y)}{p_s(X,Y)}l(X,Y,h)]\\
+$$R^T(h)=\mathbb{E}_{(X,Y)\sim p_t(X,Y)}[l(X,Y,h)]\\\\
+=\int_{(X,Y)}l(X,Y,h)p_t(X,Y)dXdY\\\\
+=\int_{(X,Y)}l(X,Y,h)\frac{p_t(X,Y)}{p_s(X,Y)}p_s(X,Y)dXdY\\\\
+=\mathbb{E}_{(X,Y)\sim p_s(X,Y)}[\frac{p_t(X,Y)}{p_s(X,Y)}l(X,Y,h)]\\\\
 =\mathbb{E}_{(X,Y)\sim p_s(X,Y)}[\beta (X,Y)l(X,Y,h)]$$
 
 where $\beta(X,Y)=\frac{p_t(X,Y)}{p_s(X,Y)}$ represent the changes across domains. If we know the value of $\beta(X,Y)$, we can use source domain data to approximate the expected risk for target domain.
@@ -34,17 +34,17 @@ where $x_1$ and $x_2$ are two vectors. If they represent two distributions, we c
 
 Let
 $$\mu(p(X))=\mathbb{E}_{X \sim p(X)}[\phi(X)]$$
-where $p(X) is a marginal distribution (only focus on the distribution of $X$) on the ferature space $X$.
+where $p(X)$ is a marginal distribution (only focus on the distribution of $X$) on the ferature space $X$.
 
 The expectation $\mu$ is a bijective function (if $\mu(x_1)=\mu(x_2)$, $x_1=x_2$) if $K$ is a universal kernel.
 
 Then we have:
-$$\mu(p_t(X))=\mathbb{E}_{X\sim p_s}[\beta(X)\phi(X)]=\mu(\beta(X)p_s(X))\\
+$$\mu(p_t(X))=\mathbb{E}_{X\sim p_s}[\beta(X)\phi(X)]=\mu(\beta(X)p_s(X))\\\\
 s.t. \beta(X)\ge 0,\mathbb{E}_{X\sim p_s}[\beta(X)]=1$$
 where $\mathbb{E}_{X\sim p_s}[\beta(X)]=1$ means we have enough features.
 
 We want to minimize the difference between expection on target domain and source domain.
-$$\underset{\beta}{\operatorname{\min}}||\mu(p_t(X))-\mathbb{E}_{X \sim p_s(X)}[\beta(X)\phi(X)]||^2 \\ 
+$$\underset{\beta}{\operatorname{\min}}||\mu(p_t(X))-\mathbb{E}_{X \sim p_s(X)}[\beta(X)\phi(X)]||^2 \\\\
 s.t. \beta(X)\ge 0,\mathbb{E}_{X\sim p_s}[\beta(X)]=1$$
 Note, we can get $\beta(X)$ here!
 

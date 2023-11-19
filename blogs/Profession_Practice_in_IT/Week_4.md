@@ -124,6 +124,32 @@ Not everyone changes at the same pace.
 
 Diversity of the team helps to be more innovative and to overcome challenging situations in projects.
 
+### [5 Stages of a Team Development Tuckman | Better Explained](https://project.pm/team-development-tuckman/)
+Team development stages:
+- Forming
+  - Prefering independent entities. Responsibilities are clear.
+  - Make efforts and let them mingle and introduce with frequent meetings.
+- Storming
+  - The stage most teams fail.
+  - Problems
+    - Each member think he is only working the most.
+    - Each member has their own working style, leading to unforeseen issues and may frustrate other members.
+  - How to handle
+    - Set proper ground rules to follow as soon as possible. 
+    - Define the responsibilities clearly with proper authority for everyone. 
+- Norming
+  - Team effectiveness should go up exponentially.
+  - Team members start working together
+    - Appriciate each other's strengths
+    - Ask on another for help
+    - provide constructive feedback
+- Performing
+  - Most effective stage
+- Adjourning
+  - |Appreciate and celebrate the team’s achievements.
+
+
+
 ### [Top 10 Main Causes of Project Failure](https://project-management.com/top-10-main-causes-of-project-failure/)
 
 10 common causes of project fail:

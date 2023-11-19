@@ -222,3 +222,19 @@ Simple Average (Triangular Distribution):
 $$E=(P+O+M)/3$$
 Weighted Average (Beta Distribution):
 $$E=(P+O+4M)/6$$
+
+### [How do you know what information sources to trust?](https://www.aap.com.au/factcheck-resources/how-do-you-know-what-information-sources-to-trust/)
+
+#### Who Made this Claim
+
+Is it a named source or unknown or anonymous source? People are far less likely to make things up if they are named as the source of information because there may be consequences for giving false information.
+
+After identifying the source of a claim, we need to identify whether the source is reliable.
+
+#### What's the Evidence to Support this claim
+
+Misinformation promoters may be driven by various interests and often use emotionally charged content. It's crucial to critically assess such information, ensuring sources are transparent about their evidence and methodologies. Skepticism is advised towards sources offering 'exclusive' details or untraceable data. Understanding the funding and influence behind research is also vital. The accuracy and context of a claim must be considered, recognizing that these can evolve over time.
+
+#### What do Trusted Sources Say about this Claim
+
+Fact-checking services, particularly those accredited by the IFCN, offer reliable databases to verify claims.

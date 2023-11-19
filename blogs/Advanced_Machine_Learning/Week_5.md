@@ -40,12 +40,12 @@ $$ \frac{\partial ||X-DR||^2_F}{\partial R} = -2D^T X + 2D^T D R$$
 
 $$R_{i,j}^{k+1} = R_{i,j}^{k} + \frac{\eta_{i,j}}{2} ({2D^k}^T X + 2{D^k}^T D^k R^k)_{i,j}$$
 
-$$\eta_{i,j} = \frac{R_{i,j}^{k}}{ { (D^k}^T D^k R^k)_{i,j}}$$
+$$ \eta_{i,j} = \frac{R_{i,j}^{k}}{ { (D^k}^T D^k R^k)_{i,j}} $$
 
 Therefore, 
-$$R_{i,j}^{k+1} = R_{i,j}^k \frac{({D^k}^T X)_{i,j}}{({D^k}^T D^k R^k)_{i,j}}$$
+$$ R_{i,j}^{k+1} = R_{i,j}^k \frac{({D^k}^T X)_{i,j}}{({D^k}^T D^k R^k)_{i,j}} $$
 
 Similarly,
 
-$$D_{i,j}^{k+1} = D_{i,j}^k \frac{(X {R^{k+1}}^T)_{i,j}}{(D^k R^{k+1} {R^{k+1}}^T)_{i,j}}$$
+$$ D_{i,j}^{k+1} = D_{i,j}^k \frac{(X {R^{k+1}}^T)_{i,j}}{(D^k R^{k+1} {R^{k+1}}^T)_{i,j}} $$
 

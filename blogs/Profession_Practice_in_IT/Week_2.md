@@ -102,3 +102,24 @@ IT-business alignment helps ensure that the organization gets the right technolo
 ### [How CIOs prove business value](https://www.cio.com/article/221711/how-cios-prove-business-value.html)
 
 ### [Why Business Value is Key to IT Success](https://www.bmc.com/blogs/business-value-it)
+
+#### Enterprise IT Value
+
+Enterpise IT can creat
+- Asset Value - hardware, software
+- Business Value - overall impact on business model and service delivery
+  - IT and productivity - automation
+  - IT and forging competitive advantages
+    - The ways the business can leverage new technology that puts them ahead of the competition
+    - Presenting key metrics as they build a case for new investments
+  - IT and customer satisfaction - keep customers happy and loyal
+
+#### Measure Business Value of IT
+
+When there is new technology investments, measuring the business value of IT is needed.
+
+- Strategic value
+  - Productivity enhancements
+- Economic value
+  - Reduce cost
+  - Increase value
