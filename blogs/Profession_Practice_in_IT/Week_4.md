@@ -137,6 +137,7 @@ Team development stages:
   - How to handle
     - Set proper ground rules to follow as soon as possible. 
     - Define the responsibilities clearly with proper authority for everyone. 
+    - Define tasks clearly within individuals domains.
 - Norming
   - Team effectiveness should go up exponentially.
   - Team members start working together
