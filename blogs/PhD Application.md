@@ -1,0 +1,25 @@
+
+- Hong Kong
+  - Hong Kong Baptist University
+    - [Kaiyang Zhou](https://kaiyangzhou.github.io/) - visual perception, multimodal models, domain generalization, domain adaptation.
+    - [Bo Han](https://bhanml.github.io/index.html)
+    - [Chen Jie](https://jchenhkg.github.io/)
+    - [Jun Qi](https://sites.google.com/site/uwjunqi/home?authuser=0) - Quantum Machine Learning, Quantum Natural Language Processing, Speech, Language and Signal Processing
+    - [Feng Jian](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=jfeng)
+    - [Ma Jing](https://majingcuhk.github.io/)
+  - City University of Hong Kong
+    - [Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/)
+    - [WONG Hau San](https://scholars.cityu.edu.hk/en/persons/hau-san-wong(d4881758-8e9f-4218-b2b5-ad33ebb52a3c).html)
+    - [WANG Shiqi](https://scholars.cityu.edu.hk/en/persons/shiqi-wang(78640ee3-78bd-4ec2-bb65-ccfc5cb44918).html)
+  - University of Macau
+    - [PUN ChiMan](https://www.cis.um.edu.mo/~cmpun/)
+    - [Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/)
+    - [Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/)
+    - [Liming Zhang](https://www.fst.um.edu.mo/personal/lmzhang/)
+    - [Zhedong Zheng](https://www.zdzheng.xyz/) - graduate from UTS
+- Australia
+  - RMIT
+    - [Xiuzhen (Jenny) Zhang](http://www.xiuzhenzhang.org/)
+    - [Tabinda Sarwar](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/sarwar-dr-tabinda)
+    - [Long Chen](https://zjuchenlong.github.io/) - need paper
+
