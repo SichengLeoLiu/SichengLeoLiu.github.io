@@ -126,11 +126,15 @@ where $x$ is the spatial information, $\omega$ is the frequency.
 ### Image Smoothing - Ideal Low Pass Filter (ILPF)
 
 Keep low frequencies and cut off large frequencies (usually is noise information).
-$$H(u,v) = \begin{cases}
+$$
+H(u,v) = \begin{cases}
     1 \quad \text{if} \quad D(u,v)\le D_0\\
     0 \quad \text{if} \quad D(u,v)> D_0
-\end{cases}$$ 
+\end{cases}
+$$ 
 where $D(u,v)$ is the distance between a point $(u,v)$ and the center of the frequency rectangle.
-$$D(u,v) = [(u-P/2)^2(v-Q/2)^2]^{1/2}$$
+$$
+D(u,v) = [(u-P/2)^2(v-Q/2)^2]^{1/2}
+$$
 
 ### Geometric Transform
