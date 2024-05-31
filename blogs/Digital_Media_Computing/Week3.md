@@ -48,8 +48,7 @@ when $\gamma$ less than 1, the image becomes lighter, otherwise, it becomes dack
 
 Low contrast images lack of dynamic range in the image sensor. 
 
-$$(r_1,s_1)=(r_{min},0)
-\\
+$$(r_1,s_1)=(r_{min},0)\\
 (r_2,s_2)=(r_{max},L-1)$$
 
 ### Histogram
