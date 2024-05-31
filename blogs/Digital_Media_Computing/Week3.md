@@ -8,7 +8,7 @@
 ## Spatial Domain Image Processing
 
 The processes can be denoted as:
-$$ g(x,y) = T[f(x,y)]$$
+$$g(x,y) = T[f(x,y)]$$
 where $f(x,y)$ is the input image, $g(x,y)$ is the output image. $T$ is the operator. When we only consizer current pixel, we can rewrite as:
 $$s=T(r)$$
 
@@ -48,7 +48,7 @@ when $\gamma$ less than 1, the image becomes lighter, otherwise, it becomes dack
 
 Low contrast images lack of dynamic range in the image sensor. 
 
-$$(r_1,s_1)=(r_{min},0)\\(r_2,s_2)=(r_{max},L-1)$$
+$$(r_1,s_1)=(r_{min},0) \\ (r_2,s_2)=(r_{max},L-1)$$
 
 ### Histogram
 
@@ -132,5 +132,3 @@ $$H(u,v) = \begin{cases}
 \end{cases}$$ 
 where $D(u,v)$ is the distance between a point $(u,v)$ and the center of the frequency rectangle.
 $$D(u,v) = [(u-P/2)^2(v-Q/2)^2]^{1/2}$$
-
-### Geometric Transform
