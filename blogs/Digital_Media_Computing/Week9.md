@@ -5,18 +5,66 @@
 - Attenuation
 - Airlight
 
-Mathematical model
+Scattering model
 $$\mathbf{I}(x)=\mathbf{J}(x)t(x)+\mathbf{A}(1-t(x))$$
 $$t(x)=e^{-\beta d(x)}$$
 where $\mathbf{I}(x)$ is the observed radiance at $x$, $\mathbf{A}$ is the airlight.
 
-## Image Resizing
+The goal is recover $\mathbf{J}(x)$ from $\mathbf{I}(x)$. We need to figure what is $t(x)$ and $\mathbf{A}$.
+
+**Input**:
+- Multiple images
+- One image + depth-map
+- Single image
+
+### Single Image based Dehazing
+
+#### Dark Channel Prior
+
+- A portion of the scene is dominated by airlight.
+- The minmum intensity is such a patch should have a very low value.
+
+Steps:
+$$\mathrm{min}(r,b,g)$$
+$$\mathrm{min}(\text{local patch})$$
+
+For outdoor haze-free images, $\mathrm{min}_\Omega(\mathrm{min}_c J^c)\rightarrow 0$.
+
+
+
+## Seam Carving
+
+- Remove unimportant pixels
+- Preserve rectangular shape.
+
+Identify low energy pixels:
+
+$$e_1(\mathbf{I})=|\frac{\partial}{\partial x}\mathbf{I}||\frac{\partial}{\partial y}\mathbf{I}|$$
+where $\mathbf{I}$ is an image.
+
+The certical seam:
+$$\mathbf{s^x}=\{s_i^x\}_{i=1}^n=\{(x(i),i)\}_{i=1}^n,\quad \text{s.t. } \forall i, |x(i)-x(i-1)|\le1$$
+
+Energy function:
+$$E[x,y]=|I_x|+|I_y|$$
+
+$$E(S)=\sum_{(x,y)\in S}E[x,y]$$
+
+
 
 ## Super Resolution
  
 ### Interpolation
 
-It can't ensure all regions can be batter.
+Image content is diverse, it can't ensure all regions can be batter.
+
+#### Linear Interpolation
+$$f(x)=\sum_{i=0}^l a_ix$$
+
+#### Cubic Interpoltion
+
+
+
 
 ### Deep Learning 
 
