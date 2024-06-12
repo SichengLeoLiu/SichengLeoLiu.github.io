@@ -288,3 +288,72 @@ tmp: 1
 ```
 ### Tasks
 
+```C++
+#include <stdio.h>
+#include <stdlib.h>
+#include <omp.h>
+
+// 定义链表节点结构
+struct Node {
+    int data;
+    struct Node* next;
+};
+
+// 创建一个新节点
+struct Node* createNode(int data) {
+    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    newNode->data = data;
+    newNode->next = NULL;
+    return newNode;
+}
+
+// 打印链表节点数据的任务
+void processNode(struct Node* node) {
+    printf("Node value: %d processed by thread %d\n", node->data, omp_get_thread_num());
+}
+
+int main() {
+    // 创建链表
+    struct Node* head = createNode(1);
+    head->next = createNode(2);
+    head->next->next = createNode(3);
+    head->next->next->next = createNode(4);
+    head->next->next->next->next = createNode(5);
+    head->next->next->next->next->next = createNode(6);
+    omp_set_num_threads(3);
+    #pragma omp parallel
+    {
+        #pragma omp single
+        {
+            struct Node* current = head;
+            while (current != NULL) {
+                // 创建任务来处理当前节点
+                #pragma omp task firstprivate(current)
+                {
+                    processNode(current);
+                }
+                current = current->next;
+            }
+        }
+    }
+
+    // 释放链表
+    struct Node* current = head;
+    while (current != NULL) {
+        struct Node* next = current->next;
+        free(current);
+        current = next;
+    }
+
+    return 0;
+}
+```
+Output
+```
+Node value: 1 processed by thread 0
+Node value: 3 processed by thread 2
+Node value: 5 processed by thread 2
+Node value: 2 processed by thread 1
+Node value: 4 processed by thread 0
+Node value: 6 processed by thread 2
+```
