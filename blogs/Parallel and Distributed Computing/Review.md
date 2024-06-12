@@ -1,0 +1,60 @@
+# Review
+
+- [ ] Motivation
+  - [ ] Distributed computer architectures and organiszations
+  - [ ] Basics of parallel progrmming
+  - [ ] Why high performance computing?
+    - [ ] Performance
+- [ ] Interconnection Networks
+  - [ ] Network topologies
+    - [ ] static
+    - [ ] dynamic
+  - [ ] Message routing
+  - [ ] Evaluating interconnecting networks
+    - [ ] Diameter
+    - [ ] Arc connectivity
+    - [ ] Bisection width
+    - [ ] Cost
+- [ ] Parallel Architectures
+  - [ ] Flynn's taxonomy
+    - [ ] SIMD
+    - [ ] MIMD
+      - [ ] Shared-memory (OpenMP)
+      - [ ] Distributed-memory (MPI)
+    - [ ] GPU (CUDA)
+- [ ] Memory Hierarchy
+  - [ ] lost on ssingle processors
+  - [ ] lost in the memory system
+  - [ ] Computational Intensity (Fast memory and slow memory)
+    - [ ] Contiguous memory access
+    - [ ] Blocking - For batter use cash
+    - [ ] Loop unrolling - For better use registers
+- [ ] Parallel Algorithm Design
+  - [ ] How to partition tasks - maximium degree of parallelism
+  - [ ] Machine dependent - Balance workload, Minimaize communication
+- [ ] Shared memory platform
+- [ ] Distributed memory platform
+- [ ] Load Balancing
+  - [ ] Static task assignment
+  - [ ] Dynamic task assignment
+  - [ ] Graph partitioning 
+    - [ ] Garph bisection
+- [ ] Scalability 
+  - [ ] Parallel runtime
+  - [ ] Total time and total overhead
+  - [ ] Speedup efficiency
+  - [ ] Workload scaling models
+    - [ ] Problem constrained - Amdahl's law
+    - [ ] Time constrained - Gustafson's law
+  - [ ] Isoefficiency - keep efficiency fixed
+- [ ] OpenMP
+- [ ] MPI
+- [ ] CUDA
+
+
+Short code (no psudo code )
+- Short answer question - arc, stru
+- Algorithm design
+- MPI
+- OpenMP
+- CUDA
