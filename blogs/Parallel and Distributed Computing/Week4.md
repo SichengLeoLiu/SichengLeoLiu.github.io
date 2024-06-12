@@ -32,6 +32,5 @@ $$S=\frac{T_s}{\beta T_s + (1-\beta) T_s/p}=\frac{p}{1-\beta(p-1)}$$
 when $p\rightarrow \infin$, $S\rightarrow \frac{1}{\beta}$
 
 
-## General desxign process
-
+## General design process
 
