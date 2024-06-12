@@ -40,7 +40,7 @@ A CUDA kernel is executed by a grid (array) of threads.
 
 Structure:
 - CUDA kernel 
-  - AA grid of threads
+  - A grid of threads
 - SM 
   - 8-12 blocks/SM
   - Able to handel a certain number of threas  
