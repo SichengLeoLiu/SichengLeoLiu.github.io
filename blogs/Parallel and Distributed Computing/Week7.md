@@ -29,3 +29,23 @@ Break the circular wait.
 - `MPI_Scatter()` divids dasta into `sendcount` parts, and send to other processors respectively.
 - `MPI_Allgather()` all processors got all messages from others.
 - `MPI_Reduce()` each processors have a set of data.
+
+## Parallel Algorithm Design for Distributed-Memory Machines
+
+### Different Data Layouts for Parallel GE
+
+#### 1D Column Blocked Layout
+
+Bad load balance. Processor 0 idle after first several steps.
+
+#### 1D Column cyclic Layout
+
+Not easliy use BLAS3.
+
+#### 1D Column Block Cyclic Layout
+
+Factorization of block column is a bottleneck
+
+#### Block Skewed Layout
+#### 2D Row and Column Blocked Layout
+#### 2D Row and Column Block Cyclic Layout 
