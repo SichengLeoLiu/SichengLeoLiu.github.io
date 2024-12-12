@@ -19,7 +19,14 @@
     - [Zhedong Zheng](https://www.zdzheng.xyz/) - graduate from UTS
 - Australia
   - RMIT
-    - [Xiuzhen (Jenny) Zhang](http://www.xiuzhenzhang.org/)
+    - [Xiuzhen (Jenny) Zhang](http://www.xiuzhenzhang.org/) - Trustworthy machine learning snd data science
     - [Tabinda Sarwar](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/sarwar-dr-tabinda)
     - [Long Chen](https://zjuchenlong.github.io/) - need paper
+    - [Feng Xia](https://www.xia.ai/) - generative ai, cognitive computing
+    - [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507/index.php)
+  - Monash
+    - [Reza Haffari](https://supervisorconnect.it.monash.edu/supervisors/reza-haffari) - NLP
+    - [Thanh Thi Nguyen](https://sites.google.com/view/thanh-thi-nguyen/home?authuser=0https://sites.google.com/view/thanh-thi-nguyen/home?authuser=0) - NLP
+    - [Lizhen Qu](https://supervisorconnect.it.monash.edu/supervisors/lizhen-qu)
+    - [x] [Levin Kuhlmann](http://levinkuhlmann.byethost3.com/)- Self-aware neural networks
 
