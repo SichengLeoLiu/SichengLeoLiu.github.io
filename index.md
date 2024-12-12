@@ -56,6 +56,9 @@ In the near future, I will begin my PhD in Electrical and Electronic Engineering
 
 ## Education
 
+- **Starting Mar 2025:** RMIT University - PhD, Electrical and Electronic Engineering  
+  - Supervised by **A/Prof. Estrid He** and **Dr. Jiao Lin**
+
 - **Aug 2022 - Jun 2024:** The University of Sydney - MEng, Computer Science
   - Main courses: Deep Learning (D), Natural Language Processing (HD), Machine Learning and Data Mining (HD)
   - Multi-label Multi-Modal Classification Kaggle Competition
@@ -67,8 +70,6 @@ In the near future, I will begin my PhD in Electrical and Electronic Engineering
   - Research on Semantic Analysis Method based on BERT
   - COVID-19 Data Visualization System
 
-- **Starting Mar 2025:** RMIT University - PhD, Electrical and Electronic Engineering  
-  - Supervised by **A/Prof. Estrid He** and **Dr. Jiao Lin**
 
 ---
 
